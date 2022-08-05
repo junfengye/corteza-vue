@@ -69,4 +69,8 @@ export {
   CSensitivityLevelPicker,
 } from './privacy'
 
+export {
+  CChart,
+} from './chart'
+
 export { default as C3 } from './c3'
